@@ -2,7 +2,7 @@
 
 学习 TypeScript 的 catshow 项目
 
-## 基础环境搭建
+## 开发环境搭建
 
 ### TypeScript
 

@@ -23,7 +23,7 @@ git init
 git add -A
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/cicadasinging/catshow--ts
+git remote add origin git@github.com:cicadasinging/catshow--ts.git
 git push -f origin main
 ```
 

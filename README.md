@@ -1,6 +1,6 @@
-# catshow--ts
+# catlist--ts
 
-学习 TypeScript 的 catshow 项目
+学习 TypeScript 的 catlist 示例
 
 ## 开发环境搭建
 
@@ -23,7 +23,7 @@ git init
 git add -A
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:cicadasinging/catshow--ts.git
+git remote add origin git@github.com:cicadasinging/catlist--ts.git
 git push -f origin main
 ```
 
